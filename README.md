@@ -16,7 +16,7 @@ Este projeto foi desenvolvido com o objetivo de apresentar um pouco mais sobre m
 ### :house: Home
 Apresentação inicial com uma imagem pessoal e convite para explorar o site.
 
-### :bust_in_silhouette Sobre
+### :bust_in_silhouette: Sobre
 Seção que mostra minha trajetória, formação, experiências e cursos, organizada em cards interativos.
 
 ### :mailbox: Contato
