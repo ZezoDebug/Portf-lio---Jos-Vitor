@@ -33,7 +33,7 @@ Contém links para GitHub, LinkedIn, e-mail e um formulário de sugestões (est�
 
 1. Clone o repositório:
     ```cmd
-    git clone https://github.com/seu-usuario/nome-do-repo.git
+    git clone https://github.com/ZezoDebug/Portf-lio---Jos-Vitor.git
 
 2. Acesse o diretório:
     ```cmd
