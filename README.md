@@ -29,7 +29,7 @@ Contém links para GitHub, LinkedIn, e-mail e um formulário de sugestões (est�
 - Cards interativos que expandem com hover
 - Ícones com destaque e cor personalizada ao passar o mouse
 
-## 📦 Como rodar o projeto
+## :package: Como rodar o projeto
 
 1. Clone o repositório:
     ```cmd
